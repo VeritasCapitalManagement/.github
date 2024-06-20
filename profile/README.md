@@ -1,4 +1,4 @@
-# Sobre Nós
+# Sobre nós
 
 Gestora de recursos independente, especializada em ativos de alta complexidade, recuperação de ativos, crédito estruturado, oportunidades imobiliárias, fundos em processos de liquidação e ativos em situações especiais.
 
